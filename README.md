@@ -1,16 +1,20 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/danielle-morris-04232368/">Danielle Morris</a>' IT and Cybersecurity Project Portfolio 🛡️
+
+Cybersecurity is my passion, and I'm excited to tackle complex challenges through practical projects. From vulnerability management to threat detection, these projects allow me to engage deeply within the constantly changing cybersecurity space. Feel free to explore my projects to see my work in strengthening security operations and processes!
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/Danielle-Morris-1/Vulnerability-Management-Program-Implementation)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Danielle-Morris-1/Remediation-Automation)**
+
+<hr/>
+
+## 🤳🏽 Connect With Me
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/danielle-morris-04232368/
 
 <!--
-**Danielle-Morris-1/Danielle-Morris-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
