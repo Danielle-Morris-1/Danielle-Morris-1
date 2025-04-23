@@ -4,7 +4,7 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/Danielle-Morris-1/Vulnerability-Management-Program-Implementation)**
+- **[Vulnerability Management Program Implementation](https://github.com/Danielle-Morris-1/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Danielle-Morris-1/Remediation-Automation)**
 
 <hr/>
