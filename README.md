@@ -7,7 +7,7 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 - **[Vulnerability Management Program Implementation](https://github.com/Danielle-Morris-1/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Danielle-Morris-1/Remediation-Automation)**
 
-## 🕵🏾‍♂️ SOC Automation & Threat Detection Projects
+## 🕵🏾‍♀️ SOC Automation & Threat Detection Projects
 
 - **[SOC Automation and Threat Enrichment Workflow (Wazuh, Shuffle, TheHive)](https://github.com/Danielle-Morris-1/SOC-Automation-Project)**  
 
