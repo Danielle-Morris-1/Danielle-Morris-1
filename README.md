@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/danielle-morris-04232368/">Danielle Morris</a>' IT and Cybersecurity Project Portfolio 🛡️
+# <a href="https://www.linkedin.com/in/danielle-morris-04232368/">Danielle Morris</a>' IT and Cybersecurity Project Portfolio
 
 Cybersecurity is my passion, and I'm excited to tackle complex challenges through practical projects. From vulnerability management to threat detection, these projects allow me to engage deeply within the constantly changing cybersecurity space. Feel free to explore my projects to see my work in strengthening security operations and processes!
 
@@ -10,15 +10,42 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 ## 🕵🏾‍♀️ SOC Automation & Threat Detection Projects
 
 - **[SOC Automation and Threat Enrichment Workflow (Wazuh, Shuffle, TheHive)](https://github.com/Danielle-Morris-1/SOC-Automation-Project)**  
-
+- **[SQL Security Audit](https://github.com/Danielle-Morris-1/SQL-Security-Audit/tree/main)**
 <hr/>
 
-## 🤳🏽 Connect With Me
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🧰 Tools & Technologies
 
-[linkedin]: https://www.linkedin.com/in/danielle-morris-04232368/
+### Network & Endpoint
+![Windows10](https://img.shields.io/badge/OS-Windows10-blue)
+![Sysmon](https://img.shields.io/badge/Tool-Sysmon-lightgrey)
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue)
+![tcpdump](https://img.shields.io/badge/Tool-tcpdump-lightgrey)
+![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-darkblue)
+![BASH](https://img.shields.io/badge/Scripting-BASH-yellow)
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+### SIEM, SOAR & Case Management
+![Wazuh](https://img.shields.io/badge/Tool-Wazuh-blue)
+![TheHive](https://img.shields.io/badge/Tool-TheHive-orange)
+![Shuffle](https://img.shields.io/badge/Tool-Shuffle-brightgreen)
+
+### Threat Detection & Analysis
+![VirusTotal](https://img.shields.io/badge/Tool-VirusTotal-lightblue)
+![SQL Server](https://img.shields.io/badge/Skill-SQL%20Security%20Audit-purple)
+
+### Vulnerability Management
+![Tenable](https://img.shields.io/badge/Tool-Tenable-red)
+
+### Infrastructure & Virtualization
+![Microsoft Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4)
+![DigitalOcean](https://img.shields.io/badge/Cloud-DigitalOcean-1da1f2)
+![VirtualBox](https://img.shields.io/badge/VM-VirtualBox-blueviolet)
+
+---
+## 📫 Connect With Me!
+
+Let's stay connected and talk cybersecurity!  
+Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/danielle-morris-04232368/)
+for networking or collaboration opportunities.
+
+---
+> 🚀 *"Always learning, always improving — one project at a time."*
