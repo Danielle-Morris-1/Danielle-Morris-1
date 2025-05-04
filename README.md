@@ -17,7 +17,7 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 
 ### Network & Endpoint
 ![Windows10](https://img.shields.io/badge/OS-Windows10-blue)
-![Sysmon](https://img.shields.io/badge/Tool-Sysmon-lightgrey)
+![Sysmon](https://img.shields.io/badge/Tool-Sysmon%20%2B%20Windows%20Event%20Logs-lightgrey)
 ![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue)
 ![tcpdump](https://img.shields.io/badge/Tool-tcpdump-lightgrey)
 ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-darkblue)
@@ -27,10 +27,11 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 ![Wazuh](https://img.shields.io/badge/Tool-Wazuh-blue)
 ![TheHive](https://img.shields.io/badge/Tool-TheHive-orange)
 ![Shuffle](https://img.shields.io/badge/Tool-Shuffle-brightgreen)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-black)
 
 ### Threat Detection & Analysis
 ![VirusTotal](https://img.shields.io/badge/Tool-VirusTotal-lightblue)
-![SQL Server](https://img.shields.io/badge/Skill-SQL%20Security%20Audit-purple)
+![Suricata](https://img.shields.io/badge/NIDS-Suricata-red)
 
 ### Vulnerability Management
 ![Tenable](https://img.shields.io/badge/Tool-Tenable-red)
