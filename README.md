@@ -7,10 +7,18 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 - **[Vulnerability Management Program Implementation](https://github.com/Danielle-Morris-1/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Danielle-Morris-1/Remediation-Automation)**
 
+## 🛡️ System Hardening & STIG Compliance
+
+- **[DISA STIG Remediation Scripts (Windows 10)](https://github.com/Danielle-Morris-1/STIG-Remediation-Scripts)**  
+
 ## 🕵🏾‍♀️ SOC Automation & Threat Detection Projects
 
-- **[SOC Automation and Threat Enrichment Workflow (Wazuh, Shuffle, TheHive)](https://github.com/Danielle-Morris-1/SOC-Automation-Project)**  
+- **[SOC Automation and Threat Enrichment Workflow (Wazuh, Shuffle, TheHive)](https://github.com/Danielle-Morris-1/SOC-Automation-Project)**
+
+## 📊 Configuration Review
+
 - **[SQL Security Audit](https://github.com/Danielle-Morris-1/SQL-Security-Audit/tree/main)**
+
 <hr/>
 
 ## 🧰 Tools & Technologies
