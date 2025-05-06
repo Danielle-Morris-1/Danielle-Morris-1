@@ -9,7 +9,7 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 
 ## 🛡️ System Hardening & STIG Compliance
 
-- **[DISA STIG Remediation Scripts (Windows 10)](https://github.com/Danielle-Morris-1/STIG-Remediation-Scripts)**  
+- **[10 DISA STIG Remediation Scripts (Windows 10)](https://github.com/Danielle-Morris-1/STIG-Remediation-Scripts)**  
 
 ## 🕵🏾‍♀️ SOC Automation & Threat Detection Projects
 
