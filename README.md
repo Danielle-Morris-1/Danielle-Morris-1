@@ -16,6 +16,7 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 
 - **[SOC Automation and Threat Enrichment Workflow (Wazuh, Shuffle, TheHive)](https://github.com/Danielle-Morris-1/SOC-Automation-Project)**
 - **[Threat Hunt: Unintended Exposure to the Public Internet](https://github.com/Danielle-Morris-1/Misconfigured-and-Exposed)**
+- **[Threat Hunt: Sudden Network Slowdown](https://github.com/Danielle-Morris-1/Sudden-Network-Slowdown/blob/main/README.md)**
 - **[SQL Threat Hunting for Unauthorized Access](https://github.com/Danielle-Morris-1/SQL-Investigations)**
 
 <hr/>
