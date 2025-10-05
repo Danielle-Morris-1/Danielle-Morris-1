@@ -12,11 +12,16 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 - **[20+ DISA STIG Remediation Scripts (Windows 10)](https://github.com/Danielle-Morris-1/STIG-Remediation-Scripts)**
 - **[Botium Toys Controls and Compliance Checklist](https://github.com/Danielle-Morris-1/Controls-and-Compliance-Checklist)**
 
-## 🕵🏾‍♀️ SOC Automation & Threat Detection Projects
+## ⚙️ SOC Automation 
 
 - **[SOC Automation and Threat Enrichment Workflow (Wazuh, Shuffle, TheHive)](https://github.com/Danielle-Morris-1/SOC-Automation-Project)**
+
+## 🕵🏾‍♀️ Incident Response & Threat Detection Projects
+
+- **[Incident Response: Brute Force Detection](https://github.com/Danielle-Morris-1/Sentinel-Brute-Force-Detection/tree/main)**
 - **[Threat Hunt: Unintended Exposure to the Public Internet](https://github.com/Danielle-Morris-1/Misconfigured-and-Exposed)**
 - **[Threat Hunt: Sudden Network Slowdown & Port Scan Detection](https://github.com/Danielle-Morris-1/Sudden-Network-Slowdown/blob/main/README.md)**
+- **[Threat Hunt: Suspected Data Exfiltration](https://github.com/Danielle-Morris-1/Suspected-Data-Exfiltration)**
 - **[SQL Threat Hunting for Unauthorized Access](https://github.com/Danielle-Morris-1/SQL-Investigations)**
 
 <hr/>
