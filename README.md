@@ -27,6 +27,7 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 
 <hr/>
 
+
 ## 🧰 Tools & Technologies
 
 ### Network & Endpoint
@@ -60,6 +61,22 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 ### Query Languages
 ![KQL](https://img.shields.io/badge/Query%20Language-KQL-darkcyan)
 ![SQL](https://img.shields.io/badge/Query%20Language-SQL-navy)
+
+
+---
+## 🎓 Certifications  
+
+[![(ISC)² CC](https://img.shields.io/badge/(ISC)%C2%B2%20Certified%20in%20Cybersecurity-0097A7?style=for-the-badge&logo=ISC2&logoColor=white)](https://www.isc2.org/Certifications/CC)  
+**(ISC)² Certified in Cybersecurity (CC)**  
+_Issued by (ISC)²_  
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)  
+**CompTIA Security+ (SY0-701)**  
+_Issued by CompTIA_  
+
+[![Microsoft Azure Security Engineer (AZ-500)](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Security%20Engineer%20Associate%20(AZ--500)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)  
+**Microsoft Certified: Azure Security Engineer Associate (AZ-500)**  
+_Status: In Progress_  
 
 ---
 ## 📫 Connect With Me!
