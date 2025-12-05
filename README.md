@@ -18,6 +18,7 @@ Cybersecurity is my passion, and I'm excited to tackle complex challenges throug
 
 ## 🕵🏾‍♀️ Incident Response & Threat Detection Projects
 
+- **[SOC Investigation Report: The Azuki Incident - A Multi-Stage Threat Hunt](https://github.com/Danielle-Morris-1/Azuki-Incident-Multi-Stage-Threat-Hunt)**
 - **[SOC Investigation Report: RDP Compromise Incident](https://github.com/Danielle-Morris-1/RDP-Compromise-Incident)**
 - **[Incident Response: Brute Force Detection](https://github.com/Danielle-Morris-1/Sentinel-Brute-Force-Detection/tree/main)**
 - **[Threat Hunt: Unintended Exposure to the Public Internet](https://github.com/Danielle-Morris-1/Misconfigured-and-Exposed)**
